@@ -93,5 +93,5 @@ This project analyzes transactional data from **InsightCart** to uncover trends,
 ## 👨‍💻 Author  
 **Vamshi** – Engineering Student | Data Analytics Enthusiast  
 
-🔗 Connect with me on [LinkedIn](www.linkedin.com/in/vamshi-dataanalyst) | [GitHub](https://github.com/vamshi46733)  
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/vamshi-dataanalyst ) | [GitHub](https://github.com/vamshi46733)  
  
